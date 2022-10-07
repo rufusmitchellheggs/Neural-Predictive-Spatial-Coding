@@ -10,7 +10,15 @@ A challenge in spatial memory is understanding how place cell firing contributes
 See publication:
 
 Repository contents:
-1. Place cell identification pipeline
-2. Neural Manifold learning (multi-dimensional scaling)
-3. Gaussian Naive Bayes decoder for predictive coding
+1. Place cell identification pipeline (Figure 2 a, c)
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/38789733/194594893-d9c6e67f-69b8-41dc-ac25-06f1437a93bb.png">
+
+2. Neural Manifold learning - Multi-Dimensional Scaling (Figure 2 g)
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/38789733/194595658-d78aa182-f49f-491f-a308-532782936c9f.png">
+
+3. Gaussian Naive Bayes decoder for predictive coding (Figure 3, b, c)
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/38789733/194596009-4d789d2c-d66c-47d5-8e17-9dfdf2dcf7c2.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/38789733/194596155-9aa0fbe1-6498-4e6c-9274-2398cb345c3e.png">
